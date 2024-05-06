@@ -50,7 +50,7 @@ async def init():
         pass
     await Anony.decorators()
     LOGGER("AnonXMusic").info(
-        "✦ EDIT BY ➥ ROY EDITX...🐝"
+        "✦ EDIT BY ➥ 𝑼𝑵𝑰𝑸𝑼𝑬⃟♥️⃟𝑩𝑶𝒀⃝≛⁤⃟♦️...🐝"
     )
     await idle()
     await app.stop()
