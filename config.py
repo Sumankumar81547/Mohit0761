@@ -17,10 +17,10 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "Mohitkumar076")
 BOT_USERNAME = getenv("BOT_USERNAME", "Queen_Xmusicbot")
 
 #❖  Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "AVISHA MUSIC")
+BOT_NAME = getenv("BOT_NAME", "QUEEN MUSIC")
 
 #❖ get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "AVISHA_ASS")
+ASSUSERNAME = getenv("ASSUSERNAME", "QUEEN_ASS")
 
 #❖ Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
