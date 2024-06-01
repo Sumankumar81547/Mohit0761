@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH", None)
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Mohitkumar076")
 
 #❖  Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "Queen_Xmusicbot")
+BOT_USERNAME = getenv("BOT_USERNAME", "Jaan_Xmusicbot")
 
 #❖  Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "QUEEN MUSIC")
+BOT_NAME = getenv("BOT_NAME", "Jaan MUSIC")
 
 #❖ get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME", "QUEEN_ASS")
+ASSUSERNAME = getenv("ASSUSERNAME", "Jaan_ASS")
 
 #❖ Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -92,7 +92,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/982b01ba53c3d69b0d0ce.jpg"
+    "START_IMG_URL", "https://graph.org/file/8fb81f0d1d98fa115ba6e.mp4"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/dec61e858d57c14343455.jpg"
